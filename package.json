@@ -1,0 +1,29 @@
+{
+  "name": "noteworx-cli-fs",
+  "version": "1.0.0",
+  "description": "A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, and a file system to store notes.",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "start": "node app.js --help",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drminnaar/noteworx-cli-fs.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drminnaar/noteworx-cli-fs/issues"
+  },
+  "homepage": "https://github.com/drminnaar/noteworx-cli-fs#readme",
+  "dependencies": {
+    "moment": "^2.19.3",
+    "uuid": "^3.1.0",
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1"
+  }
+}
