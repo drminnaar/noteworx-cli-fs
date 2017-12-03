@@ -1,4 +1,4 @@
-# JS Note README
+# NoteWorx README
 
 A basic note application that uses a CLI (Command Line Interface) frontend to capture and manage notes, and a file system to store notes.
 
@@ -12,7 +12,7 @@ A basic note application that uses a CLI (Command Line Interface) frontend to ca
 
 * **High Level Design**
 
-![noteworx-cli-fs](https://user-images.githubusercontent.com/33935506/33468207-2ee2e46e-d663-11e7-8dc3-eaca08d5bf86.PNG)
+![noteworx-cli-fs](https://user-images.githubusercontent.com/33935506/33524929-209c8384-d82e-11e7-944a-ac395825eb97.PNG)
 
 ---
 
@@ -26,6 +26,7 @@ A basic note application that uses a CLI (Command Line Interface) frontend to ca
 ## Related Projects
 
 * [noteworx-cli-mongodb]
+* [noteworx-cli-mongoose]
 
 ---
 
@@ -147,3 +148,4 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 * **Douglas Minnaar** - *Initial work* - [drminnaar](https://github.com/drminnaar)
 
 [noteworx-cli-mongodb]: https://github.com/drminnaar/noteworx-cli-mongodb
+[noteworx-cli-mongoose]: https://github.com/drminnaar/noteworx-cli-mongoose
