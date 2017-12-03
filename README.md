@@ -23,6 +23,12 @@ A basic note application that uses a CLI (Command Line Interface) frontend to ca
 
 ---
 
+## Related Projects
+
+* [noteworx-cli-mongodb]
+
+---
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -139,3 +145,5 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 ## Authors
 
 * **Douglas Minnaar** - *Initial work* - [drminnaar](https://github.com/drminnaar)
+
+[noteworx-cli-mongodb]: https://github.com/drminnaar/noteworx-cli-mongodb
